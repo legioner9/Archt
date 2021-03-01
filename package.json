@@ -1,0 +1,22 @@
+{
+  "name": "archt",
+  "version": "1.0.0",
+  "description": "architype of function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "architype",
+    "ASP"
+  ],
+  "author": "legioner9",
+  "license": "MIT",
+  "devDependencies": {
+    "ndb": "^1.1.5",
+    "ndb-inspect": "^0.0.1"
+  },
+  "dependencies": {
+    "st_require": "^1.0.0"
+  }
+}
