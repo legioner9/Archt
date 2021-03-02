@@ -2,6 +2,16 @@
 
     cd ..
     git push github_l9 master
+    
+## git_push_usb_32.bat
+
+    cd ..
+    git push usb_32 master
+    
+## git_push_disk_tosh.bat
+
+    cd ..
+    git push disk_tosh master
 
 ## cp_rm_mv.bat
 
