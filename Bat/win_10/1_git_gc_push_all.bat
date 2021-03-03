@@ -1,5 +1,5 @@
 cd ../..
-git add .
+
 git commit .
 git push disk_tosh master
 git push disk_tosh master
